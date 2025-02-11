@@ -1,0 +1,28 @@
+body {
+    font-family: "Tillana", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.quote {
+    font-family: "Sour Gummy", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 2px;
+    padding: 10px;
+}
+
+.p1 {
+    border-left: 10px;
+    border-style: ridge;
+    border-color: black;
+    display: inline-block;
+    padding: 10px;
+}
+
+cite {
+    text-align: center
+}
+

@@ -1,0 +1,15 @@
+body {
+    font-family: "Grenze Gotisch", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.heading {
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    text-decoration: wavy;
+}

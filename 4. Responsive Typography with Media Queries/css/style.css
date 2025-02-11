@@ -1,0 +1,25 @@
+body {
+    font-family: "Grenze Gotisch", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+h1, h2 {
+    letter-spacing: 5px;
+    line-height: 5;
+    font-weight: 900;
+    font-style: italic;
+}
+
+h1 {
+    text-align: center;
+}
+
+@media screen and (min-width: 480px) and (max-width: 800px) {
+    h1, h2 {
+        font-size: x-large
+    }
+    p {
+        font-size: x-small;
+    }
+}
